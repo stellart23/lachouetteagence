@@ -366,6 +366,7 @@ a:hover {
     font-size: 20px;
     width: 550px;
     margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 .citation{
@@ -686,12 +687,13 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 45px;
 }
 
 .hero-bloc-text-sub {
     font-size: 36px;
 }
+
 
 .statement-bloc-text {
     line-height: 26px;
@@ -710,6 +712,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    font-size: 18px;
 }
 
 .h1 {
@@ -724,6 +727,22 @@ p {
     padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
+}
+
+.bloc-contact{
+    font-size: 20px;
+    padding: 18px;
+}
+
+.text-center-white{
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF!important;
+}
+
+.expertise{
+    text-align: center;
+    font-size: 14px;
 }
 
 .social {
@@ -805,6 +824,7 @@ h4 {
 .tc-white {
     color: #F3976C!important;
 }
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
