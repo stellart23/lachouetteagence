@@ -362,6 +362,33 @@ a:hover {
     z-index: 2;
 }
 
+.description{
+    font-size: 20px;
+    width: 550px;
+    margin: 0 auto;
+}
+
+.citation{
+    width: 550px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.auteur-citation{
+    width: 550px;
+    margin: 0;
+    font-size: 14px;
+}
+
+.réalisations{
+    font-size: 23px;
+    width: 488px;
+    margin: 0 auto;
+    background-image: url("img/lines-h2-bg.png")
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -822,7 +849,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
