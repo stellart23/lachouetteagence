@@ -938,6 +938,13 @@ h4 {
 }
 
 @media (max-width: 767px) {
+
+    /*taille texte descritption agence*/
+    .description, .citation, .auteur-citation, .réalisations{
+        width: auto;
+    }
+   /* fin taille texte descritption agence*/
+   
     .page-container {
         overflow-x: hidden;
         position: relative;
