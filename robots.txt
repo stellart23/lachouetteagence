@@ -1,0 +1,5 @@
+User-Agent: * 
+Disallow: /intranet/ 
+(Disallow: /login.php 
+Allow: /*.css?* 
+Sitemap: https://stellart23.github.io/lachouetteagence/index.html/sitemap_index.xml 

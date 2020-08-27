@@ -788,6 +788,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -873,6 +874,7 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -944,7 +946,7 @@ h4 {
         width: auto;
     }
    /* fin taille texte descritption agence*/
-   
+
     .page-container {
         overflow-x: hidden;
         position: relative;
