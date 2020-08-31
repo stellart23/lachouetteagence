@@ -1,5 +1,5 @@
 User-Agent: * 
-Disallow: /intranet/ 
-(Disallow: /login.php 
+Disallow: /fonts 
+Disallow: /includes
 Allow: /*.css?* 
 Sitemap: https://stellart23.github.io/lachouetteagence/index.html/sitemap_index.xml 

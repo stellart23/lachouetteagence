@@ -390,6 +390,19 @@ a:hover {
     background-image: url("img/lines-h2-bg.png")
 }
 
+.redonnerVie{
+    background-color: white;
+    border-radius: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #F3976C!important;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
