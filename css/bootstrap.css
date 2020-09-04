@@ -3418,7 +3418,7 @@ textarea.input-lg {
     height: 34px;
     line-height: 34px;
     text-align: center;
-    pointer-events: none
+    pointer-events: none;
 }
 
 .form-group-lg .form-control+.form-control-feedback,
@@ -3426,7 +3426,7 @@ textarea.input-lg {
 .input-lg+.form-control-feedback {
     width: 46px;
     height: 46px;
-    line-height: 46px
+    line-height: 46px;
 }
 
 .form-group-sm .form-control+.form-control-feedback,
