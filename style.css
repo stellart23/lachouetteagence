@@ -425,6 +425,10 @@ p, .parlonsWeb{
     color: #333333;
 }
 
+.text-center, .white {
+    font-weight: bold;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
