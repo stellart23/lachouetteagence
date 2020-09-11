@@ -425,8 +425,9 @@ p, .parlonsWeb{
     color: #333333;
 }
 
-.text-center, .white {
+.text-center, .grey {
     font-weight: bold;
+    color: #333333;
 }
 
 @media (min-width: 768px) {
@@ -826,7 +827,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #FFFFFF;
 }
 
 .portfolio-thumb {
