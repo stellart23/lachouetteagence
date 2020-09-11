@@ -430,6 +430,7 @@ p, .parlonsWeb{
     color: #333333;
 }
 
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -766,7 +767,7 @@ a:focus{
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #FFFFFF;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -798,6 +799,7 @@ a:focus{
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: bold;
 }
 
 h3 {
@@ -873,7 +875,8 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    font-weight: bold;
+    color: #333333;
 }
 
 .btn-atomic-tangerine:hover {
