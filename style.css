@@ -400,6 +400,10 @@ a:hover {
     margin: 0 auto;
 }
 
+.realisations{
+    font-weight: bold;
+}
+
 .navbar .nav a:hover {
     background-color: #F3976C;
 }
