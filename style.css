@@ -433,6 +433,10 @@ p, .parlonsWeb{
     color: #333333;
 }
 
+:focus {
+     outline: none; 
+    }
+
 
 @media (min-width: 768px) {
     .site-navigation {
