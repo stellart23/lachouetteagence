@@ -433,9 +433,11 @@ p, .parlonsWeb{
     color: #333333;
 }
 
-:focus {
-     outline: none; 
-    }
+a:focus {
+    outline: none;
+ background-color: black;
+ color: white;
+ }
 
 
 @media (min-width: 768px) {
